@@ -8,4 +8,6 @@ world/*
 banned*
 crash-reports/*
 OpenComputers*
+config/activity.json
 .mixin*
+backups/
